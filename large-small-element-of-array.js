@@ -23,3 +23,5 @@ let ages = [2, 34, 46, 3, 45, 67, 2, 42, 7, 100, 95, 3, 45, 84, 103, 1];
 let largest = largestElement(ages);
 let smallest = smallestElement(ages);
 console.log(smallest,largest);
+
+
