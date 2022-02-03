@@ -3,6 +3,7 @@ function largestElement(ages){
     for (let index = 0; index < ages.length; index++) {
         if(largestAge < ages[index]){
             largestAge = ages[index];
+            
         }
     }
     return largestAge;
